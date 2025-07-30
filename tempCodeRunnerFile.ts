@@ -1,0 +1,1 @@
+'@vitejs/plugin-react'
